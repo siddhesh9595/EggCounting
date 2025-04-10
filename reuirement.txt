@@ -1,0 +1,9 @@
+Required libraries:
+
+!pip install ultralytics opencv-python
+
+
+
+Required Modification in code:
+
+set path for model and video.
